@@ -1,2 +1,2 @@
-# Android
-# Android
+# Twice사진첩
+# Splash와 화면 전환을 한 파일에 통합하여 제작한 사진첩
